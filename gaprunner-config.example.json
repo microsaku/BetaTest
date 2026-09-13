@@ -1,5 +1,5 @@
 {
-  "_note": "Esempio di configurazione remota per GapRunner. Includi solo le chiavi che vuoi cambiare rispetto ai default di Constants.java: quelle mancanti (o non valide) restano semplicemente quelle scritte nel codice. Vedi RemoteConfigManager.java per l'elenco completo delle chiavi riconosciute e i relativi range validi.",
+  "_note": "Esempio di configurazione remota. Includi solo le chiavi che vuoi cambiare rispetto ai default di Constants.java: quelle mancanti (o non valide) restano semplicemente quelle scritte nel codice. Vedi RemoteConfigManager.java per l'elenco completo delle chiavi riconosciute e i relativi range validi.",
 
   "collectible_heart_chance": 0.22,
   "collectible_shield_chance": 0.12,
