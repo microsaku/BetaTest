@@ -11,7 +11,7 @@
   "shield_duration_s": 5.0,
 
   "max_lives": 3,
-  "player_starting_bullets": 6,
+  "player_starting_bullets": 12,
   "ammo_pickup_bullets_gained": 15,
 
   "hazard_min_spawn_interval_s": 0.9,
