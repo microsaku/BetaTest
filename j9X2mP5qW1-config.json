@@ -34,7 +34,7 @@
   "congrats_wait_time_s": 5.0,
   "welcome_screen_duration_s": 6.0,
 
-  "level5_unlock_levels": 5,
+  "level5_unlock_levels": 2,
   "flying_enemy_min_levels_to_unlock": 3,
   "special_flying_enemy_trigger_distance_m": 2000.0
 }
