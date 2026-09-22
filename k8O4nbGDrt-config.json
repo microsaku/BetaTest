@@ -87,7 +87,7 @@
   "ring_crate_max_spawn_interval_s": 18.0,
 
   "_note_lottery": "Lotteria di inizio partita: cadenza e min/max per ciascuno dei sette bonus",
-  "lottery_cooldown_hours": 24.0,
+  "lottery_cooldown_hours": 0.1,
   "lottery_lives_min": 1,
   "lottery_lives_max": 3,
   "lottery_shield_seconds_min": 3,
