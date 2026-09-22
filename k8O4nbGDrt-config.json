@@ -71,7 +71,7 @@
   "rope_free_zone_max_length_px": 1600.0,
   "rope_min_spacing_px": 350.0,
   "rope_max_spacing_px": 600.0,
-  "rope_length_px": 260.0,
+  "rope_length_px": 340.0,
   "rope_grab_radius_px": 46.0,
   "rope_max_hang_offscreen_px": 300.0,
 
