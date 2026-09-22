@@ -113,7 +113,7 @@
   "enemy_supply_crate_shot_amount": 6,
 
   "_note_spider": "Ragnetto velenoso appeso ai segmenti di percorso elevato",
-  "spider_min_level": 6,
+  "spider_min_level": 2,
   "spider_chance_per_segment": 0.35,
   "spider_hits_to_kill": 1,
   "spider_hit_penalty_coins": 10,
@@ -123,7 +123,7 @@
   "spider_drop_max_interval_s": 5.0,
 
   "_note_toxic_cloud": "Coppia di nuvolette tossiche al livello del nemico",
-  "toxic_cloud_min_spawn_interval_s": 8.0,
+  "toxic_cloud_min_spawn_interval_s": 3.0,
   "toxic_cloud_max_spawn_interval_s": 16.0,
   "toxic_cloud_speed_px_s": 220.0
 }
