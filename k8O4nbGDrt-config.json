@@ -11,7 +11,7 @@
   "life_score_threshold": 753,
   "shield_duration_s": 5.0,
 
-  "max_lives": 3,
+  "max_lives": 5,
   "player_starting_bullets": 10,
   "ammo_pickup_bullets_gained": 15,
 
