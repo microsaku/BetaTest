@@ -163,7 +163,7 @@
   "rotating_blade_hit_penalty_coins": 25,
 
   "_note_star_bridge": "Stella in una bolla e i ponticelli di legno che attiva sulla passerella principale",
-  "star_min_level": 4,
+  "star_min_level": 1,
   "star_min_spawn_interval_s": 15.0,
   "star_max_spawn_interval_s": 30.0,
   "star_min_coins_to_activate": 500,
