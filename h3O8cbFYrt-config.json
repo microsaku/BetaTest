@@ -72,7 +72,7 @@
   "rope_free_zone_max_length_px": 1600.0,
   "rope_min_spacing_px": 350.0,
   "rope_max_spacing_px": 600.0,
-  "rope_length_px": 260.0,
+  "rope_length_px": 340.0,
   "rope_grab_radius_px": 46.0,
   "rope_max_hang_offscreen_px": 300.0,
 
@@ -172,7 +172,7 @@
   "bridge_crossing_penalty_coins": 50,
 
   "_note_clover": "Trifoglio in una bolla verde: moltiplica le monete a ogni livello superato",
-  "clover_min_level": 8,
+  "clover_min_level": 1,
   "clover_min_spawn_interval_s": 20.0,
   "clover_max_spawn_interval_s": 40.0,
   "clover_validity_meters": 7000.0,
