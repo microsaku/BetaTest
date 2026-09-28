@@ -144,7 +144,7 @@
   "_note_elevated_segment_solid_bottom": "Bordo inferiore solido dei segmenti di percorso elevato",
   "elevated_segment_solid_bottom_min_level": 3,
   "elevated_segment_solid_bottom_level_interval": 2,
-  "elevated_segment_solid_bottom_chance": 0.8,
+  "elevated_segment_solid_bottom_chance": 0.9,
 
   "_note_rotating_blade": "Lame circolari rotanti su entrambe le passerelle",
   "rotating_blade_min_level": 3,
