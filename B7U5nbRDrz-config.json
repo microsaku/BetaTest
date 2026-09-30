@@ -12,7 +12,7 @@
   "score_cap": 999999999,
   "shield_duration_s": 5.0,
 
-  "max_lives": 3,
+  "max_lives": 4,
   "player_starting_bullets": 10,
   "ammo_pickup_bullets_gained": 15,
 
