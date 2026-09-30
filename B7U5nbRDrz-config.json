@@ -48,7 +48,7 @@
   "turret_enemy_min_spawn_interval_s": 6.0,
   "turret_enemy_max_spawn_interval_s": 11.0,
   "turret_enemy_shot_range_px": 900.0,
-  "turret_enemy_shot_cooldown_s": 1.4,
+  "turret_enemy_shot_cooldown_s": 0.3,
   "turret_enemy_shot_speed_px_s": 480.0,
   "turret_enemy_shot_max_arc_height_px": 90.0,
   "turret_enemy_shot_arc_duration_s": 0.6,
