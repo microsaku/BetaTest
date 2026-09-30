@@ -187,7 +187,7 @@
   "record_reminder_interval_m": 1500.0,
 
   "_note_baseball_bat": "Mazza da baseball: devia i pericoli caduti dall'alto, abbatte i nemici colpiti",
-  "collectible_baseball_bat_chance": 0.08,
+  "collectible_baseball_bat_chance": 0.68,
   "baseball_bat_shot_speed_px_s": 1400.0,
   "baseball_bat_enemy_reward_coins": 1500,
   "baseball_bat_enemy_reward_lives": 1
