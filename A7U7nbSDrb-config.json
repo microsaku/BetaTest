@@ -180,7 +180,7 @@
   "clover_multiplier_max": 2.5,
 
   "_note_landing": "Atterraggio consapevole della larghezza sulla passerella principale",
-  "player_width_aware_landing_fraction": 0.5,
+  "player_width_aware_landing_fraction": 0.35,
 
   "_note_hud": "Riorganizzazione HUD: pannello livello contestuale e promemoria del record",
   "hud_level_bar_reveal_remaining_m": 500.0,
