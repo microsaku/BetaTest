@@ -193,7 +193,7 @@
   "baseball_bat_enemy_reward_lives": 1,
 
   "_note_boomerang": "Boomerang rotante che rimbalza sui bordi schermo, ground e passerella principale",
-  "boomerang_min_level": 9,
+  "boomerang_min_level": 1,
   "boomerang_min_spawn_interval_s": 15.0,
   "boomerang_max_spawn_interval_s": 30.0,
   "boomerang_speed_px_s": 500.0,
