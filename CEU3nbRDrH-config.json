@@ -147,7 +147,7 @@
   "elevated_segment_solid_bottom_chance": 0.5,
 
   "_note_rotating_blade": "Lame circolari rotanti su entrambe le passerelle",
-  "rotating_blade_min_level": 7,
+  "rotating_blade_min_level": 1,
   "rotating_blade_min_spawn_interval_s": 8.0,
   "rotating_blade_max_spawn_interval_s": 15.0,
   "rotating_blade_chance_per_attempt": 0.35,
