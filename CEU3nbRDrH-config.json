@@ -12,7 +12,7 @@
   "score_cap": 999999999,
   "shield_duration_s": 5.0,
 
-  "max_lives": 3,
+  "max_lives": 4,
   "player_starting_bullets": 10,
   "ammo_pickup_bullets_gained": 15,
 
@@ -88,7 +88,7 @@
   "ring_crate_max_spawn_interval_s": 18.0,
 
   "_note_lottery": "Lotteria di inizio partita: cadenza e min/max per ciascuno dei sette bonus",
-  "lottery_cooldown_hours": 24.0,
+  "lottery_cooldown_hours": 1.0,
   "lottery_lives_min": 1,
   "lottery_lives_max": 3,
   "lottery_shield_seconds_min": 3,
@@ -114,7 +114,7 @@
   "enemy_supply_crate_shot_amount": 6,
 
   "_note_spider": "Ragnetto velenoso appeso ai segmenti di percorso elevato",
-  "spider_min_level": 6,
+  "spider_min_level": 1,
   "spider_chance_per_segment": 0.35,
   "spider_hits_to_kill": 1,
   "spider_hit_penalty_coins": 10,
