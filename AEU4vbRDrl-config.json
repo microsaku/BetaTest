@@ -215,7 +215,7 @@
   "blob_trigger_max_player_widths": 3.0,
   "blob_jump_velocity_px_s": -250.0,
   "blob_gravity_px_s2": 1500.0,
-  "blob_max_fall_speed_px_s": -250.0,
+  "blob_max_fall_speed_px_s": 250.0,
   "blob_hits_to_destroy": 2,
   "blob_defeat_reward_coins": 2000,
   "blob_contact_penalty_lives": 1,
