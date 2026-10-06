@@ -16,8 +16,8 @@
   "player_starting_bullets": 10,
   "ammo_pickup_bullets_gained": 15,
 
-  "hazard_min_spawn_interval_s": 0.9,
-  "hazard_max_spawn_interval_s": 2.2,
+  "hazard_min_spawn_interval_s": 20.9,
+  "hazard_max_spawn_interval_s": 22.2,
 
   "moving_wall_min_spawn_interval_s": 6.0,
   "moving_wall_max_spawn_interval_s": 11.0,
