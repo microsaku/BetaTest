@@ -80,7 +80,7 @@
   "ring_spawn_chance_per_attempt": 0.5,
   "ring_min_spawn_interval_s": 5.0,
   "ring_max_spawn_interval_s": 10.0,
-  "ring_jump_velocity_px_s": -900.0,
+  "ring_jump_velocity_px_s": -1100.0,
   "ring_height_ratio": 0.45,
   "ring_crate_min_level": 3,
   "ring_crate_amount": 5,
