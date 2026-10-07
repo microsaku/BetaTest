@@ -26,8 +26,8 @@
   "enemy_hits_to_kill": 6,
   
   "path_enemy_hits_to_kill": 2,
-  "path_enemy_min_spawn_interval_s": 0.6,
-  "path_enemy_max_spawn_interval_s": 1.2,
+  "path_enemy_min_spawn_interval_s": 0.92,
+  "path_enemy_max_spawn_interval_s": 1.92,
 
   "flying_enemy_hits_to_kill": 2,
   "special_flying_enemy_hits_to_kill": 4,
