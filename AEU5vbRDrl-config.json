@@ -207,7 +207,7 @@
   "crate_lift_speed_px_s": 900,
   "crate_vibration_amplitude_px": 5,
   "crate_vibration_hz": 22,
-  "crate_min_level": 11,
+  "crate_min_level": 2,
   "crate_reward_min_coins": 1000,
   "crate_reward_max_coins": 5000,
   "crate_enemy_hit_bonus_points": 0,
