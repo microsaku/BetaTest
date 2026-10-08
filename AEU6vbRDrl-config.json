@@ -188,7 +188,7 @@
   "player_coyote_time_s": 0.12,
   "player_ceiling_margin_px": 6,
   "player_ceiling_max_brake_px_s2": 40000,
-  "cloud_min_level": 3,
+  "cloud_min_level": 1,
   "cloud_spawn_min_interval_s": 25,
   "cloud_spawn_max_interval_s": 50,
   "cloud_width_player_ratio": 1.15,
