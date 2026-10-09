@@ -205,7 +205,7 @@
   "cloud_max_duration_s": 5,
   "cloud_anim_frame_time_s": 0.14,
 
-  "poison_min_level": 6,
+  "poison_min_level": 1,
   "poison_run_chance": 0.3,
   "poison_drain_interval_s": 1.0,
   "player_resistance_max": 10,
