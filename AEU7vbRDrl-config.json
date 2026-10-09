@@ -202,7 +202,7 @@
   "cloud_step_speed_px_s": 700,
   "cloud_bob_amplitude_px": 5,
   "cloud_bob_hz": 1.2,
-  "cloud_max_duration_s": 5,
+  "cloud_max_duration_s": 0,
   "cloud_anim_frame_time_s": 0.14,
 
   "poison_min_level": 1,
