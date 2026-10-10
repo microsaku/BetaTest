@@ -36,7 +36,7 @@
   "special_wall_penalty_fraction": 0.7,
   "special_wall_key_bonus_points": 1000,
 
-  "congrats_distance_interval_m": 5500.0,
+  "congrats_distance_interval_m": 3500.0,
   "congrats_wait_time_s": 4.0,
   "welcome_screen_duration_s": 6.0,
 
