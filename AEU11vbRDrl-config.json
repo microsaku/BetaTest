@@ -151,7 +151,7 @@
   "elevated_segment_solid_bottom_chance": 0.5,
 
     "_note_third_path": "Terza passerella tra ground e passerella principale (livello minimo, intervallo, spawn, lunghezze, monete/bonus)",
-  "third_path_min_level": 8,
+  "third_path_min_level": 3,
   "third_path_level_interval": 2,
   "third_path_min_spawn_interval_s": 8,
   "third_path_max_spawn_interval_s": 14,
