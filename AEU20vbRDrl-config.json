@@ -248,7 +248,7 @@
   "fixed_spider_hit_cooldown_s": 1.0,
   "fixed_plant_shot_range_px": 900.0,
   "tilt_dead_zone_deg": 4.0,
-  "tilt_full_speed_deg": 25.0,
+  "tilt_full_speed_deg": 18.0,
   "tilt_response_exponent": 1.0,
   "tilt_smoothing_alpha": 0.18,
   "tilt_invert": 0,
